@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Res. in UK, University of Nottingham, 2024(Expected)
+* M.Res. in UK, University of Nottingham, 2024 (Expected)
 * B.S. in China, China Pharmaceutical University, 2019
 
 Research experience
