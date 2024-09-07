@@ -12,4 +12,4 @@ I have gratuated from China Pharmaceutical University(https://www.cpu.edu.cn/) a
 
 I am a Master student from School of Pharmacy, University of Nottingham(https://www.nottingham.ac.uk/). Now I am completing my MRes degree in University of Nottingham and I will graduate in October this year. And my project is mainly focus on the structure and reconstitution of the core Ccr4-Not complex.
 
-You can find my CV here: [Yutong Gong's Curriculum Vitae].(../assets/CV.pdf)
+You can find my CV here: [Yutong Gong's Curriculum Vitae](../assets/CV.pdf)
